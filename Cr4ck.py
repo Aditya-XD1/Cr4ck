@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 #Males gw encrypt Tod jika mau recode, recode aja
 #Tapi ngotak dikit jangan Lo jual belikan sc ini kontol
-#Code by YayanXD 
+#Code by AdityaXD
 #Created 05-07-2020
-#My facebook (https://www.facebook.com/KM39453)
+#My facebook (https://www.facebook.com/AdityaXD.KI3M4T)
 
 import os,sys,re,time,json,random,requests
 from bs4 import BeautifulSoup as parser
@@ -28,9 +28,9 @@ def kontol():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : AdityaXD
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : AdityaXD 
 \x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/Aditya-XD1
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Lokasi.  : Cyber Indramayu Barat
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Lokasi   : Cyber Indramayu Barat
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def jembut():
@@ -43,7 +43,7 @@ def jembut():
 \x1b[1;94m────────────────────────────────────────────────────
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : AdityaXD
 \x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/Aditya-XD1
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : --------------
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/AdityaXD.KI3M4T
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def yayanxd():
