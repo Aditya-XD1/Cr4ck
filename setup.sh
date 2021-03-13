@@ -72,3 +72,9 @@ echo "       [√] install commando done..."
 echo
 echo "     type python Cr4ck.py to continue "
 echo
+echo "     Aditya XD Cyber Indramayu "
+echo
+echo "     Kroya Jawa Barat Block Bangong "
+echo
+echo "      Desa.Tanjungkerta XD.... "
+echo  
